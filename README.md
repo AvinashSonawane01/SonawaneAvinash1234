@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sonawane Avinash Arjun
-- 👀 I’m interested in Programming languages like PYTHON,C/C++,JAVA,etc....
 - 🌱 I’m currently Studying in Second Year of Artificial Intelligence and Data Science at D.Y Patil Institute of Technology,Pimpri Pune.
 
 <!---
